@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:carrot" ]
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:simplified_carrot_on_a_stick": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:simplified_carrot_on_a_stick"
+    ]
+  }
+}

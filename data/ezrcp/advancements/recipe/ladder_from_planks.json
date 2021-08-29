@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:planks"
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:ladder_from_planks": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:ladder_from_planks"
+    ]
+  }
+}

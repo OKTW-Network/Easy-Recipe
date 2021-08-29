@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:smooth_quartz_slab" ]
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:restore_from_slab/smooth_quartz": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:restore_from_slab/smooth_quartz"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:oak_slab" ]
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:restore_from_slab/oak_planks": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:restore_from_slab/oak_planks"
+    ]
+  }
+}

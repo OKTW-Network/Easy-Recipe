@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:oak_logs"
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:slab_from_log/oak_slab": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:slab_from_log/oak_slab"
+    ]
+  }
+}

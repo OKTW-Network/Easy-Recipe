@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:paper" ]
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:simplified_writable_book": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:simplified_writable_book"
+    ]
+  }
+}

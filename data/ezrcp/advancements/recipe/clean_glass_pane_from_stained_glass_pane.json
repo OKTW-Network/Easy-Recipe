@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "ezrcp:stained_glass_panes"
+          }
+        ],
+        "player": {
+          "player": {
+            "advancements": {
+              "ezrcp:recipe/clean_glass_pane_from_stained_glass_pane": false
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:clean_glass_pane_from_stained_glass_pane/1",
+      "ezrcp:clean_glass_pane_from_stained_glass_pane/2",
+      "ezrcp:clean_glass_pane_from_stained_glass_pane/3",
+      "ezrcp:clean_glass_pane_from_stained_glass_pane/4",
+      "ezrcp:clean_glass_pane_from_stained_glass_pane/5",
+      "ezrcp:clean_glass_pane_from_stained_glass_pane/6",
+      "ezrcp:clean_glass_pane_from_stained_glass_pane/7",
+      "ezrcp:clean_glass_pane_from_stained_glass_pane/8"
+    ]
+  }
+}

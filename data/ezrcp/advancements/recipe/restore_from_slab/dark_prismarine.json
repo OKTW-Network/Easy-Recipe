@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:dark_prismarine_slab" ]
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:restore_from_slab/dark_prismarine": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:restore_from_slab/dark_prismarine"
+    ]
+  }
+}

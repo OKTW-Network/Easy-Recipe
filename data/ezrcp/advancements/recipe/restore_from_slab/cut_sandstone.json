@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:cut_sandstone_slab" ]
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:restore_from_slab/cut_sandstone": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:restore_from_slab/cut_sandstone"
+    ]
+  }
+}

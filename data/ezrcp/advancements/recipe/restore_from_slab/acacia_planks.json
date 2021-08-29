@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:acacia_slab" ]
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:restore_from_slab/acacia_planks": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:restore_from_slab/acacia_planks"
+    ]
+  }
+}

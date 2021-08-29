@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fullblock_from_slab",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:prismarine_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:prismarine",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:logs"
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:ladder_from_log": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:ladder_from_log"
+    ]
+  }
+}

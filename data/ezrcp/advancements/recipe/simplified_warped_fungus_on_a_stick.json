@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:warped_fungus" ]
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:simplified_warped_fungus_on_a_stick": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:simplified_warped_fungus_on_a_stick"
+    ]
+  }
+}

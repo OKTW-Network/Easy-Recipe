@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fullblock_from_slab",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone_brick_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_bricks",
+    "count": 1
+  }
+}

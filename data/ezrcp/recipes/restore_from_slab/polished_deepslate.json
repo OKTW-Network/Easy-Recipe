@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fullblock_from_slab",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:polished_deepslate_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:polished_deepslate",
+    "count": 1
+  }
+}

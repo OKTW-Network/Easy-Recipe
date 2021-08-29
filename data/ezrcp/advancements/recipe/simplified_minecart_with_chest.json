@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:iron_ingot" ]
+          }
+        ],
+        "player": {
+          "player": {
+            "advancements": {
+              "ezrcp:recipe/simplified_minecart_with_chest": false
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:simplified_minecart/chest_1",
+      "ezrcp:simplified_minecart/chest_2",
+      "ezrcp:simplified_minecart/chest_3"
+    ]
+  }
+}

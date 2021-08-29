@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:tripwire_hook" ]
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:simplified_trapped_chest": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:simplified_trapped_chest"
+    ]
+  }
+}

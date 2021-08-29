@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:warped_stems"
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:slab_from_log/warped_slab": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:slab_from_log/warped_slab"
+    ]
+  }
+}

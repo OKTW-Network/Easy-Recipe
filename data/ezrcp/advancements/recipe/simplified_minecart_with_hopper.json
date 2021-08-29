@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:iron_ingot" ]
+          }
+        ],
+        "player": {
+          "player": {
+            "advancements": {
+              "ezrcp:recipe/simplified_minecart_with_hopper": false
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:simplified_minecart/hopper_1",
+      "ezrcp:simplified_minecart/hopper_2"
+    ]
+  }
+}

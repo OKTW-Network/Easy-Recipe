@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:glowstone_dust" ]
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:simplified_redstone_lamp": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:simplified_redstone_lamp"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [ "minecraft:redstone" ]
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:simplified_dispenser_1": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:simplified_dispenser_1",
+      "ezrcp:simplified_dispenser_2"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:spruce_logs"
+          }
+        ],
+        "player": {
+          "recipes": {
+            "ezrcp:slab_from_log/spruce_slab": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ezrcp:slab_from_log/spruce_slab"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fullblock_from_slab",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:deepslate_tile_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:deepslate_tiles",
+    "count": 1
+  }
+}
