@@ -3,8 +3,8 @@
   "category": "misc",
   "group": "hopper_minecart",
   "pattern": [
-    "ILI",
-    "ILI",
+    "I I",
+    "ICI",
     "MI "
   ],
   "key": {
@@ -14,8 +14,8 @@
     "I": {
       "item": "minecraft:iron_ingot"
     },
-    "L": {
-      "tag": "minecraft:logs"
+    "C": {
+      "item": "minecraft:chest"
     }
   },
   "result": {

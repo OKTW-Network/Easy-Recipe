@@ -30,6 +30,12 @@
       "conditions": {
         "recipe": "ezrcp:simplified_minecart/chest_3"
       }
+    },
+    "has_recipe_4": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ezrcp:simplified_minecart/chest_4"
+      }
     }
   },
   "requirements": [
@@ -37,14 +43,16 @@
       "has_minecart",
       "has_recipe_1",
       "has_recipe_2",
-      "has_recipe_3"
+      "has_recipe_3",
+      "has_recipe_4"
     ]
   ],
   "rewards": {
     "recipes": [
       "ezrcp:simplified_minecart/chest_1",
       "ezrcp:simplified_minecart/chest_2",
-      "ezrcp:simplified_minecart/chest_3"
+      "ezrcp:simplified_minecart/chest_3",
+      "ezrcp:simplified_minecart/chest_4"
     ]
   }
 }

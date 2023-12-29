@@ -24,19 +24,27 @@
       "conditions": {
         "recipe": "ezrcp:simplified_minecart/hopper_2"
       }
+    },
+    "has_recipe_3": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ezrcp:simplified_minecart/hopper_3"
+      }
     }
   },
   "requirements": [
     [
       "has_minecart",
       "has_recipe_1",
-      "has_recipe_2"
+      "has_recipe_2",
+      "has_recipe_3"
     ]
   ],
   "rewards": {
     "recipes": [
       "ezrcp:simplified_minecart/hopper_1",
-      "ezrcp:simplified_minecart/hopper_2"
+      "ezrcp:simplified_minecart/hopper_2",
+      "ezrcp:simplified_minecart/hopper_3"
     ]
   }
 }
