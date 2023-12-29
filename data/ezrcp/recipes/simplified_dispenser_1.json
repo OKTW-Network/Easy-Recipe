@@ -3,15 +3,15 @@
   "category": "redstone",
   "group": "dispenser",
   "pattern": [
-    " XS",
-    "X#S",
-    " XS"
+    " TS",
+    "TDS",
+    " TS"
   ],
   "key": {
-    "#": {
+    "D": {
       "item": "minecraft:dropper"
     },
-    "X": {
+    "T": {
       "item": "minecraft:stick"
     },
     "S": {

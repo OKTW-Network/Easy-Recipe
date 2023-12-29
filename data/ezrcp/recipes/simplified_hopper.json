@@ -3,15 +3,15 @@
   "category": "redstone",
   "group": "hopper",
   "pattern": [
-    "#X#",
-    "#X#",
-    " # "
+    "ILI",
+    "ILI",
+    " I "
   ],
   "key": {
-    "#": {
+    "I": {
       "item": "minecraft:iron_ingot"
     },
-    "X": {
+    "L": {
       "tag": "minecraft:logs"
     }
   },

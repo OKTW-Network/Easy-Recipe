@@ -3,18 +3,18 @@
   "category": "redstone",
   "group": "repeater",
   "pattern": [
-    "X X",
-    "SXS",
-    "###"
+    "R R",
+    "KRK",
+    "TTT"
   ],
   "key": {
-    "#": {
+    "T": {
       "item": "minecraft:stone"
     },
-    "X": {
+    "R": {
       "item": "minecraft:redstone"
     },
-    "S": {
+    "K": {
       "item": "minecraft:stick"
     }
   },

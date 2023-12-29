@@ -3,15 +3,15 @@
   "category": "misc",
   "group": "warped_fungus_on_a_stick",
   "pattern": [
-    "  #",
-    " #S",
-    "#XS"
+    "  K",
+    " KS",
+    "KWS"
   ],
   "key": {
-    "#": {
+    "K": {
       "item": "minecraft:stick"
     },
-    "X": {
+    "W": {
       "item": "minecraft:warped_fungus"
     },
     "S": {

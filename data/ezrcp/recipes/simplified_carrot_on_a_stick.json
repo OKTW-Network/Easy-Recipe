@@ -3,15 +3,15 @@
   "category": "misc",
   "group": "carrot_on_a_stick",
   "pattern": [
-    "  #",
-    " #S",
-    "#XS"
+    "  K",
+    " KS",
+    "KCS"
   ],
   "key": {
-    "#": {
+    "K": {
       "item": "minecraft:stick"
     },
-    "X": {
+    "C": {
       "item": "minecraft:carrot"
     },
     "S": {
