@@ -3,14 +3,14 @@
   "category": "misc",
   "group": "hopper_minecart",
   "pattern": [
-    "#X#",
-    "###"
+    "IHI",
+    "III"
   ],
   "key": {
-    "#": {
+    "I": {
       "item": "minecraft:iron_ingot"
     },
-    "X": {
+    "H": {
       "item": "minecraft:hopper"
     }
   },

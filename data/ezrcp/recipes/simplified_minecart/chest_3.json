@@ -3,15 +3,15 @@
   "category": "misc",
   "group": "chest_minecart",
   "pattern": [
-    " X ",
-    " X ",
-    " # "
+    " L ",
+    " L ",
+    " M "
   ],
   "key": {
-    "#": {
+    "M": {
       "item": "minecraft:minecart"
     },
-    "X": {
+    "L": {
       "tag": "minecraft:logs"
     }
   },

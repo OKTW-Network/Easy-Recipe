@@ -3,14 +3,14 @@
   "category": "misc",
   "group": "chest_minecart",
   "pattern": [
-    "#X#",
-    "###"
+    "ICI",
+    "III"
   ],
   "key": {
-    "#": {
+    "I": {
       "item": "minecraft:iron_ingot"
     },
-    "X": {
+    "C": {
       "item": "minecraft:chest"
     }
   },

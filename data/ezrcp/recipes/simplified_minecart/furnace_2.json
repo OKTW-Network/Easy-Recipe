@@ -3,15 +3,15 @@
   "category": "misc",
   "group": "furnace_minecart",
   "pattern": [
-    "XXX",
-    "X#X",
-    "XXX"
+    "TTT",
+    "TMT",
+    "TTT"
   ],
   "key": {
-    "#": {
+    "M": {
       "item": "minecraft:minecart"
     },
-    "X": {
+    "T": {
       "tag": "minecraft:stone_crafting_materials"
     }
   },

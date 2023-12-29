@@ -3,18 +3,18 @@
   "category": "misc",
   "group": "hopper_minecart",
   "pattern": [
-    "XWX",
-    "XWX",
-    "#X "
+    "ILI",
+    "ILI",
+    "MI "
   ],
   "key": {
-    "#": {
+    "M": {
       "item": "minecraft:minecart"
     },
-    "X": {
+    "I": {
       "item": "minecraft:iron_ingot"
     },
-    "W": {
+    "L": {
       "tag": "minecraft:logs"
     }
   },

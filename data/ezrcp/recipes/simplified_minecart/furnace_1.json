@@ -3,14 +3,14 @@
   "category": "misc",
   "group": "furnace_minecart",
   "pattern": [
-    "#X#",
-    "###"
+    "IFI",
+    "III"
   ],
   "key": {
-    "#": {
+    "I": {
       "item": "minecraft:iron_ingot"
     },
-    "X": {
+    "F": {
       "item": "minecraft:furnace"
     }
   },
