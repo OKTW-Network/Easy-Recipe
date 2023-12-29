@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "clean_glass_from_stained_glass",
+  "category": "misc",
+  "group": "ezrcp:clean_glass_from_stained_glass",
   "ingredients": [
     {
       "item": "minecraft:water_bucket"

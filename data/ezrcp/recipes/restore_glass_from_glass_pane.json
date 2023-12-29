@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "glass",
+  "category": "misc",
+  "group": "ezrcp:restore_glass_from_glass_pane",
   "ingredients": [
     {
       "item": "minecraft:glass_pane"

@@ -1,5 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
+  "category": "misc",
   "group": "warped_fungus_on_a_stick",
   "pattern": [
     "  #",

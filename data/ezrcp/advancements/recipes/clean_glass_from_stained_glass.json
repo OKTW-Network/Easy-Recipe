@@ -1,0 +1,88 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stained_glass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "ezrcp:stained_glass"
+          }
+        ]
+      }
+    },
+    "has_recipe_1": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ezrcp:clean_glass_from_stained_glass/1"
+      }
+    },
+    "has_recipe_2": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ezrcp:clean_glass_from_stained_glass/2"
+      }
+    },
+    "has_recipe_3": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ezrcp:clean_glass_from_stained_glass/3"
+      }
+    },
+    "has_recipe_4": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ezrcp:clean_glass_from_stained_glass/4"
+      }
+    },
+    "has_recipe_5": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ezrcp:clean_glass_from_stained_glass/5"
+      }
+    },
+    "has_recipe_6": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ezrcp:clean_glass_from_stained_glass/6"
+      }
+    },
+    "has_recipe_7": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ezrcp:clean_glass_from_stained_glass/7"
+      }
+    },
+    "has_recipe_8": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ezrcp:clean_glass_from_stained_glass/8"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_stained_glass",
+      "has_recipe_1",
+      "has_recipe_2",
+      "has_recipe_3",
+      "has_recipe_4",
+      "has_recipe_5",
+      "has_recipe_6",
+      "has_recipe_7",
+      "has_recipe_8"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ezrcp:clean_glass_from_stained_glass/1",
+      "ezrcp:clean_glass_from_stained_glass/2",
+      "ezrcp:clean_glass_from_stained_glass/3",
+      "ezrcp:clean_glass_from_stained_glass/4",
+      "ezrcp:clean_glass_from_stained_glass/5",
+      "ezrcp:clean_glass_from_stained_glass/6",
+      "ezrcp:clean_glass_from_stained_glass/7",
+      "ezrcp:clean_glass_from_stained_glass/8"
+    ]
+  }
+}
