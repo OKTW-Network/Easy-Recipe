@@ -16,7 +16,7 @@
     }
   },
   "result": {
-    "item": "minecraft:hopper",
+    "id": "minecraft:hopper",
     "count": 1
   }
 }

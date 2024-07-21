@@ -16,7 +16,7 @@
     }
   },
   "result": {
-    "item": "minecraft:trapped_chest",
+    "id": "minecraft:trapped_chest",
     "count": 1
   }
 }

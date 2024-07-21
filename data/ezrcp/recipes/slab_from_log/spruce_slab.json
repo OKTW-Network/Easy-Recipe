@@ -11,7 +11,7 @@
     }
   },
   "result": {
-    "item": "minecraft:spruce_slab",
+    "id": "minecraft:spruce_slab",
     "count": 24
   }
 }
