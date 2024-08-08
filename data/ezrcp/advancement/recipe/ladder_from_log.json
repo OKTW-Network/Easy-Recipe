@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:oak_logs"
+            "items": "#minecraft:logs"
           }
         ]
       }
@@ -14,7 +14,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "ezrcp:slab_from_log/oak_slab"
+        "recipe": "ezrcp:ladder_from_log"
       }
     }
   },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "ezrcp:slab_from_log/oak_slab"
+      "ezrcp:ladder_from_log"
     ]
   }
 }

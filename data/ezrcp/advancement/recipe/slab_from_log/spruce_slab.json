@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:birch_logs"
+            "items": "#minecraft:spruce_logs"
           }
         ]
       }
@@ -14,7 +14,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "ezrcp:slab_from_log/birch_slab"
+        "recipe": "ezrcp:slab_from_log/spruce_slab"
       }
     }
   },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "ezrcp:slab_from_log/birch_slab"
+      "ezrcp:slab_from_log/spruce_slab"
     ]
   }
 }

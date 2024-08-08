@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:dark_oak_logs"
+            "items": "#minecraft:cherry_logs"
           }
         ]
       }
@@ -14,7 +14,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "ezrcp:slab_from_log/dark_oak_slab"
+        "recipe": "ezrcp:slab_from_log/cherry_slab"
       }
     }
   },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "ezrcp:slab_from_log/dark_oak_slab"
+      "ezrcp:slab_from_log/cherry_slab"
     ]
   }
 }

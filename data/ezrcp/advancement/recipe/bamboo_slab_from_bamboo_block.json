@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_planks": {
+    "has_bamboo_blocks": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:planks"
+            "items": "#minecraft:bamboo_blocks"
           }
         ]
       }
@@ -14,19 +14,19 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "ezrcp:ladder_from_planks"
+        "recipe": "ezrcp:slab_from_log/bamboo_slab"
       }
     }
   },
   "requirements": [
     [
-      "has_planks",
+      "has_bamboo_blocks",
       "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "ezrcp:ladder_from_planks"
+      "ezrcp:slab_from_log/bamboo_slab"
     ]
   }
 }

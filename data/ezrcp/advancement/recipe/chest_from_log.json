@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:spruce_logs"
+            "items": "#minecraft:logs"
           }
         ]
       }
@@ -14,7 +14,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "ezrcp:slab_from_log/spruce_slab"
+        "recipe": "ezrcp:chest_from_log"
       }
     }
   },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "ezrcp:slab_from_log/spruce_slab"
+      "ezrcp:chest_from_log"
     ]
   }
 }

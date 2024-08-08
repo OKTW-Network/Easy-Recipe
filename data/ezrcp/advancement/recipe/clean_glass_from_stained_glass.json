@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "ezrcp:stained_glass"
+            "items": "#ezrcp:stained_glass"
           }
         ]
       }

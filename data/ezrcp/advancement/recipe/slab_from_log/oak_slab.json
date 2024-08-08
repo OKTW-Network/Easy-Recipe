@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:bamboo_blocks"
+            "items": "#minecraft:oak_logs"
           }
         ]
       }
@@ -14,7 +14,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "ezrcp:stick_from_bamboo_block"
+        "recipe": "ezrcp:slab_from_log/oak_slab"
       }
     }
   },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "ezrcp:stick_from_bamboo_block"
+      "ezrcp:slab_from_log/oak_slab"
     ]
   }
 }

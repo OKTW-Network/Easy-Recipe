@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:jungle_logs"
+            "items": "#minecraft:bamboo_blocks"
           }
         ]
       }
@@ -14,7 +14,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "ezrcp:slab_from_log/jungle_slab"
+        "recipe": "ezrcp:stick_from_bamboo_block"
       }
     }
   },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "ezrcp:slab_from_log/jungle_slab"
+      "ezrcp:stick_from_bamboo_block"
     ]
   }
 }

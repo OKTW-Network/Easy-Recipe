@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_bamboo_blocks": {
+    "has_logs": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:bamboo_blocks"
+            "items": "#minecraft:crimson_stems"
           }
         ]
       }
@@ -14,19 +14,19 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "ezrcp:chest_from_bamboo_block"
+        "recipe": "ezrcp:slab_from_log/crimson_slab"
       }
     }
   },
   "requirements": [
     [
-      "has_bamboo_blocks",
+      "has_logs",
       "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "ezrcp:chest_from_bamboo_block"
+      "ezrcp:slab_from_log/crimson_slab"
     ]
   }
 }

@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_logs": {
+    "has_bamboo_blocks": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:logs"
+            "items": "#minecraft:bamboo_blocks"
           }
         ]
       }
@@ -14,19 +14,19 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "ezrcp:stick_from_log"
+        "recipe": "ezrcp:chest_from_bamboo_block"
       }
     }
   },
   "requirements": [
     [
-      "has_logs",
+      "has_bamboo_blocks",
       "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "ezrcp:stick_from_log"
+      "ezrcp:chest_from_bamboo_block"
     ]
   }
 }
