@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "carrot_on_a_stick",
+  "pattern": [
+    "  K",
+    " KS",
+    "KCS"
+  ],
+  "key": {
+    "K": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "id": "minecraft:carrot_on_a_stick",
+    "count": 1
+  }
+}

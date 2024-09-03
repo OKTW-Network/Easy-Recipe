@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:jungle_logs"
+    }
+  },
+  "result": {
+    "id": "minecraft:jungle_slab",
+    "count": 24
+  }
+}

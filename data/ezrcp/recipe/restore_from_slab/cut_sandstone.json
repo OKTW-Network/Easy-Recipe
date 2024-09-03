@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "ezrcp:restore_fullblock_from_slab",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cut_sandstone_slab"
+    }
+  },
+  "result": {
+    "id": "minecraft:cut_sandstone",
+    "count": 1
+  }
+}

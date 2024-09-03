@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "ezrcp:restore_fullblock_from_slab",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:deepslate_tile_slab"
+    }
+  },
+  "result": {
+    "id": "minecraft:deepslate_tiles",
+    "count": 1
+  }
+}

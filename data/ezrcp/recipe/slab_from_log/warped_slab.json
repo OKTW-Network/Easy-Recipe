@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:warped_stems"
+    }
+  },
+  "result": {
+    "id": "minecraft:warped_slab",
+    "count": 24
+  }
+}

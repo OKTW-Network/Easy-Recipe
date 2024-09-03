@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "ezrcp:restore_fullblock_from_slab",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:andesite_slab"
+    }
+  },
+  "result": {
+    "id": "minecraft:andesite",
+    "count": 1
+  }
+}
