@@ -8,12 +8,8 @@
     "M"
   ],
   "key": {
-    "M": {
-      "item": "minecraft:minecart"
-    },
-    "L": {
-      "tag": "minecraft:logs"
-    }
+    "M": "minecraft:minecart",
+    "L": "#minecraft:logs"
   },
   "result": {
     "id": "minecraft:chest_minecart",

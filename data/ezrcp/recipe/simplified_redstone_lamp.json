@@ -8,12 +8,8 @@
     "RGR"
   ],
   "key": {
-    "G": {
-      "item": "minecraft:glowstone_dust"
-    },
-    "R": {
-      "item": "minecraft:redstone"
-    }
+    "G": "minecraft:glowstone_dust",
+    "R": "minecraft:redstone"
   },
   "result": {
     "id": "minecraft:redstone_lamp",

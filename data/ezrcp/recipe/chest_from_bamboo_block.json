@@ -8,9 +8,7 @@
     "###"
   ],
   "key": {
-    "#": {
-      "tag": "minecraft:bamboo_blocks"
-    }
+    "#": "#minecraft:bamboo_blocks"
   },
   "result": {
     "id": "minecraft:chest",

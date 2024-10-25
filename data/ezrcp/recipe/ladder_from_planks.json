@@ -8,9 +8,7 @@
     "# #"
   ],
   "key": {
-    "#": {
-      "tag": "minecraft:planks"
-    }
+    "#": "#minecraft:planks"
   },
   "result": {
     "id": "minecraft:ladder",

@@ -8,12 +8,8 @@
     "PPP"
   ],
   "key": {
-    "M": {
-      "item": "minecraft:minecart"
-    },
-    "P": {
-      "tag": "minecraft:planks"
-    }
+    "M": "minecraft:minecart",
+    "P": "#minecraft:planks"
   },
   "result": {
     "id": "minecraft:chest_minecart",
