@@ -8,15 +8,9 @@
     "KCS"
   ],
   "key": {
-    "K": {
-      "item": "minecraft:stick"
-    },
-    "C": {
-      "item": "minecraft:carrot"
-    },
-    "S": {
-      "item": "minecraft:string"
-    }
+    "K": "minecraft:stick",
+    "C": "minecraft:carrot",
+    "S": "minecraft:string"
   },
   "result": {
     "id": "minecraft:carrot_on_a_stick",

@@ -8,12 +8,8 @@
     "PPP"
   ],
   "key": {
-    "P": {
-      "tag": "minecraft:planks"
-    },
-    "H": {
-      "item": "minecraft:tripwire_hook"
-    }
+    "P": "#minecraft:planks",
+    "H": "minecraft:tripwire_hook"
   },
   "result": {
     "id": "minecraft:trapped_chest",

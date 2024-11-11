@@ -8,15 +8,9 @@
     "KWS"
   ],
   "key": {
-    "K": {
-      "item": "minecraft:stick"
-    },
-    "W": {
-      "item": "minecraft:warped_fungus"
-    },
-    "S": {
-      "item": "minecraft:string"
-    }
+    "K": "minecraft:stick",
+    "W": "minecraft:warped_fungus",
+    "S": "minecraft:string"
   },
   "result": {
     "id": "minecraft:warped_fungus_on_a_stick",

@@ -8,15 +8,9 @@
     "TTT"
   ],
   "key": {
-    "T": {
-      "item": "minecraft:stone"
-    },
-    "R": {
-      "item": "minecraft:redstone"
-    },
-    "K": {
-      "item": "minecraft:stick"
-    }
+    "T": "minecraft:stone",
+    "R": "minecraft:redstone",
+    "K": "minecraft:stick"
   },
   "result": {
     "id": "minecraft:repeater",

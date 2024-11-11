@@ -8,12 +8,8 @@
     "TTT"
   ],
   "key": {
-    "M": {
-      "item": "minecraft:minecart"
-    },
-    "T": {
-      "tag": "minecraft:stone_crafting_materials"
-    }
+    "M": "minecraft:minecart",
+    "T": "#minecraft:stone_crafting_materials"
   },
   "result": {
     "id": "minecraft:furnace_minecart",

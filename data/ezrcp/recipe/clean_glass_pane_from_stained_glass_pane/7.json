@@ -3,30 +3,14 @@
   "category": "misc",
   "group": "ezrcp:clean_glass_pane_from_stained_glass_pane",
   "ingredients": [
-    {
-      "item": "minecraft:water_bucket"
-    },
-    {
-      "tag": "ezrcp:stained_glass_panes"
-    },
-    {
-      "tag": "ezrcp:stained_glass_panes"
-    },
-    {
-      "tag": "ezrcp:stained_glass_panes"
-    },
-    {
-      "tag": "ezrcp:stained_glass_panes"
-    },
-    {
-      "tag": "ezrcp:stained_glass_panes"
-    },
-    {
-      "tag": "ezrcp:stained_glass_panes"
-    },
-    {
-      "tag": "ezrcp:stained_glass_panes"
-    }
+    "minecraft:water_bucket",
+    "#ezrcp:stained_glass_panes",
+    "#ezrcp:stained_glass_panes",
+    "#ezrcp:stained_glass_panes",
+    "#ezrcp:stained_glass_panes",
+    "#ezrcp:stained_glass_panes",
+    "#ezrcp:stained_glass_panes",
+    "#ezrcp:stained_glass_panes"
   ],
   "result": {
     "id": "minecraft:glass_pane",

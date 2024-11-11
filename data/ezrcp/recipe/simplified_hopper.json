@@ -8,12 +8,8 @@
     " I "
   ],
   "key": {
-    "I": {
-      "item": "minecraft:iron_ingot"
-    },
-    "L": {
-      "tag": "minecraft:logs"
-    }
+    "I": "minecraft:iron_ingot",
+    "L": "#minecraft:logs"
   },
   "result": {
     "id": "minecraft:hopper",

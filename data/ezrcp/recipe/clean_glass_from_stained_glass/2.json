@@ -3,15 +3,9 @@
   "category": "misc",
   "group": "ezrcp:clean_glass_from_stained_glass",
   "ingredients": [
-    {
-      "item": "minecraft:water_bucket"
-    },
-    {
-      "tag": "ezrcp:stained_glass"
-    },
-    {
-      "tag": "ezrcp:stained_glass"
-    }
+    "minecraft:water_bucket",
+    "#ezrcp:stained_glass",
+    "#ezrcp:stained_glass"
   ],
   "result": {
     "id": "minecraft:glass",
