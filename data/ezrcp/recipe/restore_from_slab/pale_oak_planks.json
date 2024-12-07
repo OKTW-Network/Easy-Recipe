@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "ezrcp:restore_fullblock_from_slab",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": "minecraft:pale_oak_slab"
+  },
+  "result": {
+    "id": "minecraft:pale_oak_planks",
+    "count": 1
+  }
+}
