@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "simplified_chest_boat_2",
+  "pattern": [
+    " L ",
+    "PLP",
+    "PPP"
+  ],
+  "key": {
+    "P": "minecraft:acacia_planks",
+    "L": "#minecraft:logs"
+  },
+  "result": {
+    "id": "minecraft:acacia_chest_boat",
+    "count": 1
+  }
+}

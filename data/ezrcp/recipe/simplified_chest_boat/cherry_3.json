@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "simplified_chest_boat_3",
+  "pattern": [
+    "L",
+    "L",
+    "B"
+  ],
+  "key": {
+    "B": "minecraft:cherry_boat",
+    "L": "#minecraft:logs"
+  },
+  "result": {
+    "id": "minecraft:cherry_chest_boat",
+    "count": 1
+  }
+}

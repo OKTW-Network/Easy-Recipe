@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "simplified_chest_boat_1",
+  "pattern": [
+    "PCP",
+    "PPP"
+  ],
+  "key": {
+    "P": "minecraft:mangrove_planks",
+    "C": "minecraft:chest"
+  },
+  "result": {
+    "id": "minecraft:mangrove_chest_boat",
+    "count": 1
+  }
+}
