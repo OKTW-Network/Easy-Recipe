@@ -2,6 +2,8 @@
   "pack": {
     "pack_format": 61,
     "supported_formats": { "max_inclusive": 88, "min_inclusive": 61 },
+    "min_format": 61,
+    "max_format": 88,
     "description": "https://github.com/OKTW-Network/Easy-Recipe"
   }
 }
